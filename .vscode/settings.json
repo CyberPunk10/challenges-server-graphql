@@ -1,14 +1,14 @@
 {
   "workbench.colorCustomizations": {
-    "statusBar.background": "#235a20",
+    "statusBar.background": "#226644",
     "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#32802d",
-    "titleBar.activeBackground": "#235a20",
+    "statusBarItem.hoverBackground": "#2f8c5d",
+    "titleBar.activeBackground": "#226644",
     "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#235a2099",
+    "titleBar.inactiveBackground": "#22664499",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#235a20",
+  "peacock.color": "#226644",
   "vetur.format.defaultFormatter.html": "js-beautify-html",
   // "vetur.format.defaultFormatterOptions": {
   //   "js-beautify-html": {
